@@ -1,0 +1,10 @@
+button[data-start],
+button[data-stop] {
+  margin: 100px 20px 0 20px;
+  padding: 6px 24px;
+
+  font-size: 15px;
+  font-weight: 700;
+
+  cursor: pointer;
+}

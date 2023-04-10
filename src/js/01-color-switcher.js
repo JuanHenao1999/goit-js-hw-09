@@ -1,4 +1,4 @@
-import '../css/common.css';
+import '../css/common.css'
 
 const body1 = document.querySelector('body');
 const start1 = document.querySelector('button[data-start]');
